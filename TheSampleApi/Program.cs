@@ -11,6 +11,6 @@ app.UseOpenApi();
 
 app.UseHttpsRedirection();
 
-app.AddRootEndpoints();
+app.AddApiEndpoints();
 
 app.Run();

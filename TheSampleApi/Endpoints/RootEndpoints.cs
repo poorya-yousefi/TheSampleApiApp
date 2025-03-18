@@ -1,3 +1,5 @@
+using TheSampleApi.Data;
+
 namespace TheSampleApi.Endpoints;
 
 public static class RootEndpoints
